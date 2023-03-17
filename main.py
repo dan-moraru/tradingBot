@@ -1,6 +1,7 @@
 from AlgorithmImports import *
 import numpy as np
 
+# Created in QuantConnect (Will not work by running)
 class CalculatingVioletSheep(QCAlgorithm):
 
     def Initialize(self):
